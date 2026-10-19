@@ -1,6 +1,6 @@
 # 🌐 Enterprise Network Redundancy & Edge Topology Lab (Cisco Packet Tracer)
 
-![Topology Preview](assets/topology-preview.png)
+![Topology Preview](img-topology.png)
 
 ## 📌 Visão Geral do Projeto
 Este repositório contém o projeto de simulação de infraestrutura de rede corporativa para alta disponibilidade, roteamento dinâmico entre sites e resiliência de borda com failover automático.
